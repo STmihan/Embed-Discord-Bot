@@ -1,0 +1,47 @@
+<embed>
+    <color>0x0099FF</color>
+    <author> <!-- Author in the top left corner -->
+        <name>Server Status</name> <!-- Name of the author -->
+        <url>https://discord.gg/4Z3Y4Z</url> <!-- Make name clickable -->
+        <icon>https://picsum.photos/200/300</icon> <!-- Icon left to the name -->
+    </author>
+    <title>Some Title</title>
+    <url>https://some.url</url> <!-- Make title clickable -->
+    <description>
+        Some description
+        It can be multiline
+    </description>
+    <thumbnail>https://picsum.photos/200/300</thumbnail> <!-- Thumbnail in the top right corner -->
+    <image>https://picsum.photos/200/300</image> <!-- Image in the bottom -->
+    <footer>
+        <text>Server Status</text>
+        <icon>https://picsum.photos/200/300</icon>
+    </footer>
+    <timestamp>NOW</timestamp> <!-- Print NOW for current time -->
+    <fields>
+        <field>
+            <name>Filed 1 name</name> <!-- Field name -->
+            <value>
+                Field value
+                It can be multiline
+            </value>
+            <inline>true</inline> <!-- Display field in the same line as previous field -->
+        </field>
+        <field>
+            <name>Filed 2 name</name>
+            <value>
+                Field value
+                It can be multiline
+            </value>
+            <inline>true</inline>
+        </field>
+        <field>
+            <name>Filed 3 name</name>
+            <value>
+                Field value
+                It can be multiline
+            </value>
+            <inline>false</inline>
+        </field>
+    </fields>
+</embed>

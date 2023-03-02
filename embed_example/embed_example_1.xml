@@ -1,0 +1,43 @@
+<embed>
+    <color>0x0099FF</color>
+    <title>Server Status</title>
+    <description>
+        Rules
+        When generating in #deleted-channel / #deleted-channel keep things PG-13. This means:
+        - No NSFW
+        - No Gore
+    </description>
+    <url>https://discord.gg/4Z3Y4Z</url>
+    <author>
+        <name>Server Status</name>
+        <url>https://discord.gg/4Z3Y4Z</url>
+        <icon>https://picsum.photos/200/300</icon>
+    </author>
+    <thumbnail>https://picsum.photos/200/300</thumbnail>
+    <image>https://picsum.photos/200/300</image>
+    <timestamp>NOW</timestamp>
+    <footer>
+        <text>Server Status</text>
+        <icon>https://picsum.photos/200/300</icon>
+    </footer>
+    <fields>
+        <field>
+            <name>Rules</name>
+            <value>
+                When generating in #deleted-channel / #deleted-channel keep things PG-13. This means:
+                - No NSFW
+                - No Gore
+            </value>
+            <inline>true</inline>
+        </field>
+        <field>
+            <name>Rules</name>
+            <value>
+                When generating in #deleted-channel / #deleted-channel keep things PG-13. This means:
+                - No NSFW
+                - No Gore
+            </value>
+            <inline>true</inline>
+        </field>
+    </fields>
+</embed>
