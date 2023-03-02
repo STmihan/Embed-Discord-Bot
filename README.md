@@ -124,3 +124,7 @@ Then send the file to the bot using `/to-embed` command.
 | name | string | Name of the field | Yes |
 | value | string | Value of the field | Yes |
 | inline | boolean | Display field in the same line as previous field | No |
+
+## License
+
+[MIT](LICENSE)
