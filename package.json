@@ -1,19 +1,18 @@
 {
-  "name": "discord-bot",
+  "name": "embed-discord-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple Discord bot that can embed messages.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "author": "STmihan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "@discordjs/rest": "^1.5.0",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
     "fast-xml-parser": "^4.1.3"
