@@ -88,6 +88,12 @@ Create xml file with the following format:
 ```
 
 Then send the file to the bot using `/to-embed` command.
+Don't forget to delete `Done` message after you get the embed.
+
+## Commands
+
+### `/to-embed` 
+ - attachment: xml file with embed data. See [XML API](#xml-api) for more info. Required.
 
 ## XML API
 
