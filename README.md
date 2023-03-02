@@ -2,6 +2,8 @@
 
 This is a simple Discord bot that can embed messages.
 
+![img.png](readme/img.png)
+
 ## Setup
 
 ### Requirements
@@ -133,4 +135,4 @@ Don't forget to delete `Done` message after you get the embed.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](readme/LICENSE)
